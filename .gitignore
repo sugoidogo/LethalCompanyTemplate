@@ -71,3 +71,4 @@ crashlytics-build.properties
 # build output
 /bin
 /obj
+/*.zip
